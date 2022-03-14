@@ -7,11 +7,11 @@ URLogy is an application consisting of various components designed to provide us
 
 Sources:
 <ol>
-<li><a href="https://docs.python.org/3/library/webbrowser.htm"> </a> </li> 
-<li><a href="https://docs.python.org/3/library/tk.html"> </a> </li> 
-<li><a href="https://pypi.org/project/python-whois/"> </a> </li> 
-<li><a href="https://www.thepythoncode.com/article/extracting-domain-name-information-in-python"> </a> </li> 
-<li><a href="https://docs.python.org/3/library/tkinter.messagebox.html"> </a> </li> 
+<li><a href="https://docs.python.org/3/library/webbrowser.htm"> </a> webbrowser </li> 
+<li><a href="https://docs.python.org/3/library/tk.html"> </a> tkinter </li> 
+<li><a href="https://pypi.org/project/python-whois/"> </a> python-whois </li> 
+<li><a href="https://www.thepythoncode.com/article/extracting-domain-name-information-in-python"> </a> thepythoncode.com </li> 
+<li><a href="https://docs.python.org/3/library/tkinter.messagebox.html"> </a> tkinter.messagebox </li> 
 
 <br>
 Created a different version of the project with MySQL too.<br>
