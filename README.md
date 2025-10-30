@@ -1,6 +1,6 @@
 # URLogy
 
-Made By - <a href="https://github.com/praajnabaragur"> Praajna G Baragur </a> 
+High School Project Made By - <a href="https://github.com/praajnabaragur"> Praajna G Baragur </a> 
 
 URLogy is an application consisting of various components designed to provide users with an all-in-one solution for various URL-related utilities.<br>
 
